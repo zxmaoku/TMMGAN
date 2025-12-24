@@ -1,4 +1,4 @@
-1.Before running the code, first set up the following project environment  
+1.Before running the code, first set up the following project environment  （If you encounter any problems with code execution or dataset downloads, please contact us by email: zxsurefire@163.com）
 accelerate             1.8.0
 addict                 2.4.0
 aiohappyeyeballs       2.6.1
