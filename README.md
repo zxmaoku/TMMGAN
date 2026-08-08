@@ -293,7 +293,6 @@ test_paths = [
 - **Framework**: PyTorch
 - **GPU**: Single NVIDIA A800 GPU
 - **Batch size**: 32
-- **Input/output channels**: 1 (for medical image synthesis)
 - **Image size**: 256×256
 
 
